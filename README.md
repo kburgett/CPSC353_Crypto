@@ -4,4 +4,4 @@
 p = 1267650600228229401496703205653
 g = 2
 B = 551730967557532321189350537798                  #"Publicly Shared Key"
-initalization factor = 00000000                     # not needed for sDES
+initalization vector for plain_text = (2,6,3,1,4,8,5,7)      
